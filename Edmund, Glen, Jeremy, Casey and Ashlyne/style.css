@@ -1,3 +1,14 @@
 body {
     background-color: rgba(18, 93, 179, 0.808);
 }
+
+h1 {
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+}
+h1:hover{
+    color:rgb(139, 231, 47);
+}
