@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Zalando+Sans+SemiExpanded:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    background-color: #0041C2;
+}
+
+
+
+h1 {
+    
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1:hover{
+    color:rgb(245, 241, 19);
+}
+
+h2 {
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h2:hover{
+    color:rgb(245, 241, 19);
+}
+
+
+
+
+h3 {
+    
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: left;
+}
+
+h3:hover{
+    color:rgb(245, 241, 19);
+}
+
+p{
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 35px;
+    font-weight: 50;
+    text-align: left;
+}
+p:hover{
+    color:rgb(245, 241, 19);
+}
+
+.Laufey{
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+ol:hover{
+    color:rgb(245, 241, 19);
+}
+
+img{
+    padding: 1px;
+    margin: 1px;
+    height: 250px;
+    width: 200px;
+}
+
+.Pancake{
+   
+    float: right;
+    
+}
+
+
