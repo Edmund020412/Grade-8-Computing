@@ -1,14 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Zalando+Sans+SemiExpanded:ital,wght@0,200..900;1,200..900&display=swap');
+
+
 body {
     background-color: rgba(18, 93, 179, 0.808);
+    background-image: url(https://asset.kompas.com/crops/gL09vmVPYjiAm79oI6L3NW0jpl0=/177x0:2335x1439/1200x800/data/photo/2023/09/11/64fe97e84391a.jpg );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom center;
+    background-blend-mode: lighten;
 }
+
 
 h1 {
     
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1:hover{
+    color:rgb(245, 241, 19);
+}
+
+h2 {
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 60px;
     font-weight: 300;
     text-align: center;
 }
-h1:hover{
+
+h2:hover{
     color:rgb(245, 241, 19);
 }
+
+
+
+h3 {
+    
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: left;
+}
+
+h3:hover{
+    color:rgb(245, 241, 19);
+}
+
+button {
+   
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 100px;
+    background-color: blue;
+    
+}
+
+button:hover{
+    color:rgb(245, 241, 19);
+    background-color: blue;
+}
+
+
+
+
+.matcha {
+   
+    text-align: center;
+}
+
+
+img{
+    height: 800px;
+}
+
+
+
+.read {
+    text-align: center;
+}
+
