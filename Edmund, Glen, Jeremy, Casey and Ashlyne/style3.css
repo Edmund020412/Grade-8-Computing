@@ -1,0 +1,71 @@
+body {
+    background-color: #0041C2;
+    background-image: url(https://thepagerset.in/wp-content/uploads/2025/07/sddefault-e1751374687259.jpg );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top center;
+    backface-visibility: lighten;
+}
+
+h1 {
+    border: 5px solid black;
+    width: fit-content;
+    margin: 100px auto;
+    background-color:  #0041C2;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1:hover{
+    color:rgb(245, 241, 19);
+}
+
+h2 {
+    border: 3px solid black;
+    width: fit-content;
+    margin: 100px auto;
+    background-color:  #0041C2;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h2:hover{
+    color:rgb(245, 241, 19);
+}
+
+img{
+    border: 3px solid black;
+    height: 750px;   
+}
+
+.zack{
+    text-align: center;
+    
+}
+
+button {
+    margin: 50px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 50px;
+    background-color:  #0041C2;
+    border: 2px solid black;
+    
+    
+}
+
+.daniel {
+   
+    text-align: center;
+}
+
+button:hover{
+    color:rgb(245, 241, 19);
+    background-color: blue;
+}
