@@ -2,12 +2,21 @@
 
 body {
     background-color: #0041C2;
+    background-image: url(https://elyon.sch.id/landing_page/wp-content/uploads/2024/05/DSC07493-2-1024x833.jpg );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top center;
+    background-blend-mode: luminosity;
 }
 
 
 
 h1 {
-    
+    border: 5px solid black;
+    width: fit-content;
+    margin: 10px auto;
+    background-color:  #0041C2;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 70px;
     font-weight: 300;
@@ -19,6 +28,10 @@ h1:hover{
 }
 
 h2 {
+    background-color:  #0041C2;
+    width: fit-content;
+    margin: 0 auto;
+    border: 3px solid black;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 60px;
     font-weight: 300;
@@ -33,7 +46,9 @@ h2:hover{
 
 
 h3 {
-    
+    background-color:  #0041C2;
+    border: 3px solid black;
+    width: fit-content;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 50px;
     font-weight: 300;
@@ -45,6 +60,9 @@ h3:hover{
 }
 
 p{
+    background-color:  #0041C2;
+    width: fit-content;
+    border: 2px solid black;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 35px;
     font-weight: 50;
@@ -55,6 +73,10 @@ p:hover{
 }
 
 .Laufey{
+    background-color:  #0041C2;
+    width: fit-content;
+    border: 1px solid black;
+    padding: 15px;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 20px;
     font-weight: 100;
@@ -66,16 +88,35 @@ ol:hover{
 }
 
 img{
+    border: 3px solid black;
     padding: 1px;
     margin: 1px;
     height: 250px;
-    width: 200px;
+    width: 400px;
 }
 
 .Pancake{
    
-    float: right;
+    float: bottom right;
     
 }
+
+.Performative{
+    background-color:  #0041C2;
+    border: 1px solid black;
+    width: fit-content;
+    
+    padding: 15px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+}
+
+ul:hover{
+    color:rgb(245, 241, 19);
+}
+
+
 
 
