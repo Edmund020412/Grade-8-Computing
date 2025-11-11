@@ -13,7 +13,7 @@ body {
 
 
 h1 {
-    
+    border: 5px solid black;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 70px;
     font-weight: 300;
@@ -38,11 +38,14 @@ h2:hover{
 
 
 h3 {
-    
+    padding: 25px;
+    width: fit-content;
+    background-color:  #0041C2;
     font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 40px;
     font-weight: 300;
     text-align: left;
+    border: 3px solid black;
 }
 
 h3:hover{
@@ -55,7 +58,9 @@ button {
     font-weight: 300;
     text-align: center;
     font-size: 100px;
-    background-color: blue;
+    background-color:  #0041C2;
+    border: 5px solid black;
+    
     
 }
 
@@ -74,6 +79,7 @@ button:hover{
 
 
 img{
+    border: 3px solid black;
     height: 800px;
 }
 
@@ -82,4 +88,6 @@ img{
 .read {
     text-align: center;
 }
+
+
 
